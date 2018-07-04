@@ -1,0 +1,10 @@
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/obj/Debug/netcoreapp1.1/CarDealerShip.csproj.CoreCompileInputs.cache
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/obj/Debug/netcoreapp1.1/CarDealerShip.AssemblyInfoInputs.cache
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/obj/Debug/netcoreapp1.1/CarDealerShip.AssemblyInfo.cs
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/bin/Debug/netcoreapp1.1/CarDealerShip.deps.json
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/bin/Debug/netcoreapp1.1/CarDealerShip.runtimeconfig.json
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/bin/Debug/netcoreapp1.1/CarDealerShip.runtimeconfig.dev.json
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/bin/Debug/netcoreapp1.1/CarDealerShip.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/bin/Debug/netcoreapp1.1/CarDealerShip.pdb
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/obj/Debug/netcoreapp1.1/CarDealerShip.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip/obj/Debug/netcoreapp1.1/CarDealerShip.pdb

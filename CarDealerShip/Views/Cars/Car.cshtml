@@ -1,0 +1,9 @@
+<h1>For Sale</h1>
+<ul>
+@foreach(var cars in Model)
+{
+<li>@cars.GetMakeModel()</li>
+<li>@cars.GetYear()</li>
+}
+</ul>
+<a href="/">Add Another Car</a>

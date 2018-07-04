@@ -1,0 +1,15 @@
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/obj/Debug/netcoreapp1.1/CarDealerShip.Tests.csproj.CoreCompileInputs.cache
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/obj/Debug/netcoreapp1.1/CarDealerShip.Tests.AssemblyInfoInputs.cache
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/obj/Debug/netcoreapp1.1/CarDealerShip.Tests.AssemblyInfo.cs
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.Tests.deps.json
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.Tests.runtimeconfig.json
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.Tests.runtimeconfig.dev.json
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.Tests.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.Tests.pdb
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/bin/Debug/netcoreapp1.1/CarDealerShip.pdb
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/obj/Debug/netcoreapp1.1/CarDealerShip.Tests.dll
+/Users/austinbarr/Desktop/CarDealership_Solution/CarDealerShip.Tests/obj/Debug/netcoreapp1.1/CarDealerShip.Tests.pdb
